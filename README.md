@@ -9,4 +9,6 @@
 - `git add <FILE>`: adds <FILE> to staging area
 - `git commit` : open a text editor to write commit message
 - `git commit -m ""`: commit the changes withe single commit message
+- `git restore <FILE>`: Restore the file from Staging area
+
   
